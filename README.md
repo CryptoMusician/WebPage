@@ -22,9 +22,9 @@
 	
 	<br><br><br><br>
 	
-	<center><img src="Choonpic2.png" alt="Crypto Musician riding in his Lambo" height="465" width="465"></center>
+	<center><img src="lamb.png" alt="Crypto Musician riding in his Lambo" height="465" width="465"></center>
 	
-	<center><a href="https://choon.co/artists/transhumanity/"><h3>Enjoy Crypto Musician's Original Compositions And More On Choon, The Free Streaming Service.</h3></a></center>
+	<center><a href="https://choon.co/artists/transhumanity/"><h3>Enjoy Crypto Musician's Original Compositions And Much More On Choon, The Free Streaming Service.</h3></a></center>
 	
 	<br><br><br><br>
 	
