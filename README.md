@@ -10,8 +10,6 @@
   <img src="Bogeys1.png" alt="Crypto Musician playing piano at club" height="705" width="1368">
  
  <br><br><br><br>
-	
-	
   
     <center><h1>Welcome to the Crypto Musician's Website!</h1></center>
 	
