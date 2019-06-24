@@ -7,7 +7,7 @@
   
   </head>
   <body>
-  <img src="Bogeys1.png" alt="Crypto Musician playing piano at club" height="705" width="1368">
+  <img src="bogeys1.png" alt="Crypto Musician playing piano at club" height="705" width="1368">
  
  <br><br><br><br>
   
@@ -41,7 +41,7 @@
 	
 	<br><br><br><br>
 	
-	<center><img src="MusicoiApp.png" alt="Musicoin Mobile App" height="360" width="640"></center>
+	<center><img src="musicoiApp.png" alt="Musicoin Mobile App" height="360" width="640"></center>
 	
 	<center><a href="https://musicoin.org/nav/artist/0x2a7bc7191ca148ccdea4354c11c8d8e31beac5fc"><h3>Listen to Crypto and other Fine Musicians On Mobile! (Soon)</h3></a><center>
 	
