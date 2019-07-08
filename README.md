@@ -7,11 +7,17 @@
   
   </head>
   <body>
+	
+style>
+  h1 {color: green;}
+</style>
+	
+	
   <img src="bogeys1.png" alt="Crypto Musician playing piano at club" height="705" width="1368">
  
  <br><br><br><br>
   
-     <center><h1 style="color: red;" font-size: 72px;>Welcome to the Crypto Musician's Website!</h1></center>
+     <center><h1>Welcome to the Crypto Musician's Website!</h1></center>
 	
 	<br><br><br><br><br>
 	
