@@ -11,7 +11,7 @@
  
  <br><br><br><br>
   
-     <center><h1 style="color: blue;">Welcome to the Crypto Musician's Website!</h1></center>
+     <center><h1 style="color: blue;" font-size: 30px;>Welcome to the Crypto Musician's Website!</h1></center>
 	
 	<br><br><br><br><br>
 	
