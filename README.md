@@ -26,7 +26,7 @@
 	<center><img src="Choonpic.png" alt="Crypto Musician DJing at the club" height="715" width="1368"></center>
 	<br><br>
 	
-	<center><a href="https://soundcloud.com/user-671313934/sets/2020-concert-tour" align="middle"><font size="+7">Listen to <i>Crypto Musician's 2020 Concert Tour Album</i></font></a><center>
+	<center><a href="https://soundcloud.com/user-671313934/sets/2020-concert-tour"><font size="+7">Listen to <i>Crypto Musician's 2020 Concert Tour Album</i></font></a></center>
 	
 	<br><br><br><br><br><br><br><br>
 	
