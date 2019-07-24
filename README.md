@@ -7,54 +7,57 @@
   
   </head>
   <body>
-	
-style>
-  h1 {color: green;}
-</style>
-	
-	
-  <img src="bogeys1.png" alt="Crypto Musician playing piano at club" height="705" width="1368">
+    <img src="bogeys1.png" alt="Crypto Musician playing piano at club" height="705" width="1368">
  
- <br><br><br><br>
+    <br><br><br><br><br><br><br><br>
   
-     <center><h1>Welcome to the Crypto Musician's Website!</h1></center>
+    <center><font size="+7" color="teal"><b>Welcome to the Crypto Musician's Website!</b></font></center>
 	
-	<br><br><br><br><br>
+    <br><br><br><br><br><br><br><br>
 	
+	<center><img src="Choonpic.png" alt="Crypto Musician DJing at the club" height="715" width="1368"></center>
+	<br><br>
 	
-	  <center><img src="Choonpic.png" alt="Crypto Musician DJing at the club" height="715" width="1368"></center>
+	<center><a href="https://soundcloud.com/user-671313934/sets/2020-concert-tour"><font size="+7">Listen to <i>Crypto Musician's 2020 Concert Tour Album</i></font></a><center>
 	
-	<center><a href="https://soundcloud.com/user-671313934/sets/2020-concert-tour"><h1>Listen to <i>Crypto Musician's 2020 Concert Tour Album</i></h1></a><center>
-	
-	<br><br><br><br>
+	<br><br><br><br><br><br><br><br>
 	
 	<center><img src="Choonpic2.png" alt="Crypto Musician riding in his Lambo" height="715" width="1368"></center>
 	
-	<a href="https://choon.co/artists/transhumanity/"><h1>Enjoy Crypto Musician's Original Compositions On Choon, The Free Streaming Service.</h1></a>
+	<br><br>
 	
-	<br><br><br><br>
+	<a href="https://choon.co/artists/transhumanity/"><font size="+7">Enjoy Crypto Musician's Originals On Choon (Free Streaming)</font></a>
 	
-	<center><img src="yachting.png" alt="Crypto Musician DJing at the club" height="715" width="1368
-	"></center>
+	<br><br><br><br><br><br><br><br>
 	
-	<center><a href="https://www.youtube.com/watch?v=p3UNZD7ygh0"><h1>Watch <i>The Crypto Life</i> - A Music Video About Crypto Musician's Meteoric Success.</h1></a><cente
+	<center><img src="yachting.png" alt="Crypto Musician DJing at the club" height="715" width="1368"></center>
 	
+	<br><br>
 	
-	<br><br><br><br>
-	<a href="/docs/twitterfeed.html"><h1>Crypto Musician's Twitter Feed</h1></a>
-	<br><br><br><br><br>
+	<center><a href="https://www.youtube.com/watch?v=p3UNZD7ygh0"><font size="+7"><i>The Crypto Life</i> - Music Video Of Crypto Musician's Meteoric Success</font></a><center>
 	
+	<br><br><br><br><br><br><br><br>
 	
+	<center><img src="play4.png" alt="Crypto Musician riding in his Lambo" height="715" width="1368"></center>
 	
-	<center><h2><i>COMING ATTRACTIONS!</i></h2></center>
+	<br><br
 	
-	<br><br><br><br>
-	
-	<center><img src="musicoiApp.png" alt="Musicoin Mobile App" height="360" width="640"></center>
-	
-	<center><a href="https://musicoin.org/nav/artist/0x2a7bc7191ca148ccdea4354c11c8d8e31beac5fc"><h1>Listen to Crypto and other Fine Musicians On Mobile! (Soon)</h1></a><center>
+	<center><a href="docs/twitterfeed.html"><font size="+7">Crypto Musician's Twitter Feed</font></a></font></a></center>
 
-
-
-</body>
+	<br><br><br><br><br><br><br><br>
+	
+	
+	<center><font size="+7"><i>COMING ATTRACTIONS!</i></font></center>
+	
+	<br><br><br><br><br><br><br><br>
+	
+	<center><img src="MusicoiApp.png" alt="Musicoin Mobile App" height="360" width="640"></center>
+	
+	<center><a href="https://musicoin.org/nav/artist/0x2a7bc7191ca148ccdea4354c11c8d8e31beac5fc"><font size="+7">Listen to Crypto and other Fine Musicians On Mobile! (Soon)</font></a><center>
+<!--
+<script>
+	alert("Welcome to Crypto Musician's Website!");
+</script>
+-->
+</body>	
 </html>
