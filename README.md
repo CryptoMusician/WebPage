@@ -40,7 +40,7 @@
 	
 	<center><img src="play4.png" alt="Crypto Musician playing interactive keyboard" height="715" width="1368"></center>
 	
-	<br><br
+	<br><br>
 	
 	<center><a href="docs/twitterfeed.html"><font size="+7">Crypto Musician's Twitter Feed</font></a></font></a></center>
 
