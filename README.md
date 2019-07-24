@@ -38,7 +38,7 @@
 	
 	<br><br><br><br><br><br><br><br>
 	
-	<center><img src="play4.png" alt="Crypto Musician riding in his Lambo" height="715" width="1368"></center>
+	<center><img src="play4.png" alt="Crypto Musician playing interactive keyboard" height="715" width="1368"></center>
 	
 	<br><br
 	
