@@ -7,13 +7,20 @@
   
   </head>
   <body>
+	<style>
+		div.a {
+        		text-align: center;
+			}
+	</style>
+	
+	
     <img src="bogeys1.png" alt="Crypto Musician playing piano at club" height="705" width="1368">
  
     <br><br><br><br><br><br><br><br>
 
-	
+<div class ="a">
     <font size="+5" color="teal"><b>Welcome to the Crypto Musician's Website!</b></font>
-
+</div>
     <br><br><br><br><br><br><br><br>
 	
 	<center><img src="Choonpic.png" alt="Crypto Musician DJing at the club" height="715" width="1368"></center>
