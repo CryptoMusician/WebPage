@@ -13,7 +13,7 @@
 <div> {text-align: center;
 	
     <font size="+7" color="teal"><b>Welcome to the Crypto Musician's Website!</b></font>
-           }
+      }
 </div>	
     <br><br><br><br><br><br><br><br>
 	
