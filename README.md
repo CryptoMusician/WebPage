@@ -41,7 +41,7 @@ style>
 	
 	
 	<br><br><br><br>
-	<a href="twitterfeed.html"><h1>Crypto Musician's Twitter Feed</h1></a>
+	<a href="/docs/twitterfeed.html"><h1>Crypto Musician's Twitter Feed</h1></a>
 	<br><br><br><br><br>
 	
 	
