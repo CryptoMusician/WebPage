@@ -10,7 +10,7 @@
   
  
   
-    <img src="bogeys1.png" alt="Crypto Musician playing piano at club" height="705" width="1368">
+    <img src="bogeys1.png" alt="Crypto Musician playing piano at club" height="715" width="1368">
  
     <br><br><br><br><br><br><br><br>
   
