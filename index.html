@@ -44,7 +44,7 @@
 	
 	<br><br>
 	
-	<a href="docs/twitterfeed.html"><h1 style="color:green; font-family: Comic Sans MS; font-size: 50px; text-align: center;">Crypto Musician's Twitter Feed</h1></a></font></a>
+	<a href="docs/twitterfeed.html"><h1 style="color:green; font-family: Comic Sans MS; font-size: 50px; text-align: center;">Crypto Musician's Twitter Feed</h1></a>
 	
 	<br><br><br><br><br><br><br><br>
 	
