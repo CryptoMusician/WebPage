@@ -69,6 +69,7 @@ Email:<input type="text" name="Email">
 <input type="submit" name="submit" value="Submit">
 </form>
 </center>
+
 <!--
 <script>
 	alert("Welcome to Crypto Musician's Website!");
