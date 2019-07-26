@@ -57,19 +57,12 @@
 	
 	<br><br>
 	
-	<a href="https://musicoin.org/nav/artist/0x2a7bc7191ca148ccdea4354c11c8d8e31beac5fc"><h1 style="color:green; font-family: Comic Sans MS; font-size: 50px; text-align: center;">Listen to Crypto and other Fine Musicians On Mobile! (Soon)</h1></a>
+	<a href="https://musicoin.org/nav/artist/0x2a7bc7191ca148ccdea4354c11c8d8e31beac5fc"><h1 style="color:silver; font-family: Comic Sans MS; font-size: 50px; text-align: center;">Listen to Crypto and other Fine Musicians On Mobile! (Soon)</h1></a>
  
     <br><br><br><br><br><br><br><br>
-<h1 style="color:purple; font-family: Comic Sans MS; font-size: 50px; text-align: center;">To contact Crypto Musician send your name and email address with this form:</h1>
+<h1 style="color:purple; font-family: Comic Sans MS; font-size: 50px; text-align: center;">To contact Crypto Musician email transhumanitynow@gmail.com</h1>
    
-   <center>
-	  <form enctype="text/plain" method="get" action="mailto:webdesign@aboutguide.com">
-Your First Name: <input type="text" name="first_name"><br>
-Your Last Name: <input type="text" name="last_name"><br>
-Comments: <textarea rows="5" cols="30" name="comments"></textarea>
-<input type="submit" value="Send">
-</form>
-</center>
+   
 
 <!--
 <script>
