@@ -63,10 +63,11 @@
 <h1 style="color:purple; font-family: Comic Sans MS; font-size: 50px; text-align: center;">To contact Crypto Musician send your name and email address with this form:</h1>
    
    <center>
-	  <form action="mailto:transhumanitynow@gmail.com" method="post" enctype="text/plain" >
-FirstName:<input type="text" name="FirstName">
-Email:<input type="text" name="Email">
-<input type="submit" name="submit" value="Submit">
+	  <form enctype="text/plain" method="get" action="mailto:webdesign@aboutguide.com">
+Your First Name: <input type="text" name="first_name"><br>
+Your Last Name: <input type="text" name="last_name"><br>
+Comments: <textarea rows="5" cols="30" name="comments"></textarea>
+<input type="submit" value="Send">
 </form>
 </center>
 
