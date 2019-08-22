@@ -75,7 +75,7 @@
    
    <br><br><br><br><br><br><br><br>
 	
-	<center><img src="page_1.jpg" alt="Crypto Musician Comix" height="715" width="1368"></center>
+	<center><img src="page_1.jpg" alt="Crypto Musician Comix" height="715" width="684"></center>
 	<br><br>
 	
 	<a href="cryptoliveleak.org/exploring-the-amazon/"><h1 style="color:green; font-family: Comic Sans MS; font-size: 50px; text-align: center;"><i>Adventures Of Crypto Musician</i></h1></a>
