@@ -70,8 +70,7 @@
 	  <center>
 	  <iframe width="50%" scrolling="yes" allowtransparency="true" frameborder="0" src="https://cryptopanic.com/widgets/news/?bg_color=FFFFFF&amp;font_family=sans&amp;header_bg_color=30343B&amp;header_text_color=FFFFFF&amp;link_color=0091C2&amp;news_feed=recent&amp;text_color=333333&amp;title=Latest%20News" height="350px"></iframe>
 	  </center>
- <br><br>
-<h1 style="color:purple; font-family: Comic Sans MS; font-size: 50px; text-align: center;">To contact Crypto Musician email transhumanitynow@gmail.com</h1>
+ 
    
    <br><br><br><br><br><br><br><br>
 	
@@ -87,7 +86,13 @@
 <a href="https://smallseotools.com/visitor-hit-counter/" rel="nofollow noopener" target="_blank" title="Website hit counter by Smallseotools">
 <img src="https://smallseotools.com/counterDisplay?code=91b30cdc876018539ab56d142ff656de&style=0007&pad=4&type=ip&initCount=100" alt="Website hit counter by Smallseotools" border="0">
 </a>
-
+<br><br><br><br><br><br><br><br>
+	  
+	 
+	  
+<h1 style="color:purple; font-family: Comic Sans MS; font-size: 50px; text-align: center;">To contact Crypto Musician email transhumanitynow@gmail.com</h1>
+  
+	<br><br>  
 
 </center>
 
