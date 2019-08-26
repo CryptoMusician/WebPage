@@ -80,7 +80,7 @@
 	<a href="http://cryptoliveleak.org/exploring-the-amazon/"><h1 style="color:green; font-family: Comic Sans MS; font-size: 50px; text-align: center;"><i>Adventures Of Crypto Musician</i></h1></a>
 	<a href="http://cryptoliveleak.org/crypto-musician-reviews-megacryptopolis/"><h1 style="color:green; font-family: Comic Sans MS; font-size: 50px; text-align: center;">Crypto Musician Reviews MegaCryptoPolis</h1></a>
 	<a href="https://steemit.com/music/@transhuman/got-me-a-lambo"><h1 style="color:green; font-family: Comic Sans MS; font-size: 50px; text-align: center;">Got Me A Lambo!</h1></a>
-	
+	<a href="https://steemit.com/ubi/@transhuman/report-manna-cryptocurrency-provides-a-basic-income-to-all"><h1 style="color:green; font-family: Comic Sans MS; font-size: 50px; text-align: center;">REPORT: MANNA Cryptocurrency Provides A Basic Income To All</h1></a>
 
 	<br><br><br><br><br><br><br><br>
 <center>
