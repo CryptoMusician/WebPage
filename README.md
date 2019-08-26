@@ -81,6 +81,12 @@
 	<a href="http://cryptoliveleak.org/exploring-the-amazon/"><h1 style="color:green; font-family: Comic Sans MS; font-size: 50px; text-align: center;"><i>Adventures Of Crypto Musician</i></h1></a>
 	
 	<br><br><br><br><br><br><br><br>
+<center>
+<a href="https://smallseotools.com/visitor-hit-counter/" rel="nofollow noopener" target="_blank" title="https://smallseotols.com">
+<img src="https://smallseotools.com/counterDisplay?code=91b30cdc876018539ab56d142ff656de&style=0015&pad=5&type=ip&initCount=0" alt="https://smallseotols.com" border="0">
+</a>
+</center>
+
 
 <!--
 <script>
