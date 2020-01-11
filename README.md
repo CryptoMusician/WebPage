@@ -8,7 +8,7 @@
   </head>
   <body>
 
-    <h1 style="color:cyan; font-family: Comic Sans MS; font-size: 60px; text-align: center;">Welcome to Crypto Musician's Website!</h1>
+    <h1 style="color:red; font-family: Comic Sans MS; font-size: 60px; text-align: center;">Welcome to Crypto Musician's Website!</h1>
     <br><br>
 	
    <center>
