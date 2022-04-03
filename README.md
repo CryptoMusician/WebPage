@@ -8,7 +8,7 @@
   </head>
   <body>
 
-<span class="cc_streaminfo" data-type="song" data-username="klotho_enzyme">Loading ...</span>
+<span class="cc_streaminfo" data-type="song" data-username="klotho_enzyme">Loading test...</span>
 
     <h1 style="color:red; font-family: Comic Sans MS; font-size: 60px; text-align: center;">Welcome to Crypto Musician's Website!</h1>
     <br><br>
