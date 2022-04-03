@@ -8,6 +8,8 @@
   </head>
   <body>
 
+<span class="cc_streaminfo" data-type="song" data-username="klotho_enzyme">Loading ...</span>
+
     <h1 style="color:red; font-family: Comic Sans MS; font-size: 60px; text-align: center;">Welcome to Crypto Musician's Website!</h1>
     <br><br>
 	
@@ -91,6 +93,8 @@
 	alert("Welcome to Crypto Musician's Website!");
 </script>
 -->
+	<script language="javascript" type="text/javascript" src="http://85.25.117.122:2199/system/streaminfo.js"></script>  
+	  
 </body>	
 </html>
 
