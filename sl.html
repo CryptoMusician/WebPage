@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <TITLE>Simple Visitor Logger</TITLE>
+</HEAD>
+<BODY LINK="#0000FF" VLINK="#800080">
+<?php
+
+$name = htmlspecialchars($_GET['name']);
+$object = htmlspecialchars($_GET['object']);
+$key = htmlspecialchars($_GET['key']);
+$ip = $_SERVER['REMOTE_ADDR'];
+$ref = $_SERVER['HTTP_REFERER'];
+$dtime = date('r');
+if($ref == ""){
+   $ref = "None";
+}
+if($name == ""){
+   $name = "anon";
+}
+?>
+Hello <?php echo  $name ?>.
+thank you for visiting.
+<?php
+$entry_line = "$dtime - IP: $ip | name: $name | key: $key | object: $object\n";
+$fp = fopen("visitors.txt", "a");
+fputs($fp, $entry_line);
+fclose($fp);
+?>
+
+
+</BODY>
+</HTML>
